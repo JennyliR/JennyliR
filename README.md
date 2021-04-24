@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Jenny/Ruijia Li. @JennyliR
+- 🌱 I’m currently learning User Experience Design and Research in University of Michigan
+- 👀 My favorite part of design is the process of creation. And I love to learn about all things global design.
+- 💞️ I’m looking to collaborate on UX Front-end project or accessibility design project.
+- 📫 Reach me through email @ jennyrli1998@gmail.com or connect to me on Linkedin https://www.linkedin.com/in/jennyrli/
+- Some of the website that I created were:
+ - JennyliR/539waiver2.github.io
+ - JennyliR/539waiver3.github.io
+ - JennyliR/539waiver1.github.io
