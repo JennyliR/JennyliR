@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on UX Front-end project or accessibility design project.
 - 📫 Reach me through email @ jennyrli1998@gmail.com or connect to me on Linkedin https://www.linkedin.com/in/jennyrli/
 - Some of the website that I created were:
- - https://jennylir.github.io/539waiver1.github.io/
+ - https://jennylir.github.io/539wavier1.github.io/
  - https://jennylir.github.io/539waiver2.github.io/
  - https://jennylir.github.io/539waiver3.github.io/
