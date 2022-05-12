@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jenny/Ruijia Li. @JennyliR
-- 🌱 I recently graduated from University of Michigan with a Master degree in UX agile development.
+- 🌱 I recently graduated from University of Michigan with a Master degree in information, I specialized in UX design, research & UX agile development.
 - 👀 My favorite part of design is the process of creation. And I love to learn about all things global design.
 - 💞️ I’m looking to collaborate on UX Front-end project or accessibility design project.
 - 📫 Reach me through email @ jennyrli1998@gmail.com or connect to me on Linkedin https://www.linkedin.com/in/jennyrli/
