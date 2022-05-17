@@ -8,4 +8,5 @@
  - https://jennylir.github.io/539wavier1.github.io/
  - https://jennylir.github.io/539waiver2.github.io/
  - https://jennylir.github.io/539waiver3.github.io/
-- Check out my newest development project: https://www.notion.so/Intentional-Communities-of-Washtenaw-Communication-and-Content-Management-System-3dc0994653b74e069f7aa38c93d6231c
+- My interactive information visualization project: https://share.streamlit.io/jennylir/si649data/main/jennyrli_redlake.py
+- My newest development project: https://www.notion.so/Intentional-Communities-of-Washtenaw-Communication-and-Content-Management-System-3dc0994653b74e069f7aa38c93d6231c
