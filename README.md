@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Jenny/Ruijia Li. @JennyliR
-- 🌱 I recently graduated from University of Michigan with a Master degree in information, I specialized in UX design, research & UX agile development.
+- 🌱 I'm a UX designer and I recently graduated from University of Michigan with a Master degree in information, specialized in UX design, research & UX agile development.
 - 👀 My favorite part of design is the process of creation. And I love to learn about all things global design.
 - 💞️ I’m looking to collaborate on UX Front-end project or accessibility design project.
 - 📫 Reach me through email @ jennyrli1998@gmail.com or connect to me on Linkedin https://www.linkedin.com/in/jennyrli/
+- My portfolio website is here: https://www.jennyrli.com/
 - Some of the website that I created were:
  - https://jennylir.github.io/539wavier1.github.io/
  - https://jennylir.github.io/539waiver2.github.io/
  - https://jennylir.github.io/539waiver3.github.io/
+- Check out my newest development project: https://www.notion.so/Intentional-Communities-of-Washtenaw-Communication-and-Content-Management-System-3dc0994653b74e069f7aa38c93d6231c
